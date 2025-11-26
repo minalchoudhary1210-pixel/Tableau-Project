@@ -2,7 +2,7 @@
 
 # India EV Market Analysis Dashboard - Tableau Project
 
-### **Comprehensive Visualization of India’s Electric Vehicle Ecosystem (2018–2024)**
+### **Comprehensive Visualization of India’s Electric Vehicle Ecosystem (2018-2024)**
 
 ---
 
@@ -11,7 +11,7 @@
 This Tableau project provides a complete analytical view of India’s Electric Vehicle (EV) market using a **sample dataset generated in Python**.
 The dashboard visualizes major EV adoption trends, state-level distribution, manufacturer dominance, model-level insights, and CAFV eligibility.
 
-The goal of this project is to demonstrate strong data visualization, storytelling, and analytical skills using Tableau—while analyzing the rapidly growing EV ecosystem in India.
+The goal of this project is to demonstrate strong data visualization, storytelling, and analytical skills using Tableau-while analyzing the rapidly growing EV ecosystem in India.
 
 ---
 
@@ -101,10 +101,6 @@ Insight table showing top-performing EV models.
 
 ---
 
-
-Here is a clean, concise, and professional **brief conclusion** you can add at the end of your README:
-
----
 
 ## **Conclusion**
 
