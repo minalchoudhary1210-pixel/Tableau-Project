@@ -104,4 +104,4 @@ Insight table showing top-performing EV models.
 
 ## **Conclusion**
 
-This Tableau project provides a clear and comprehensive view of India’s growing EV market. By visualizing trends, geographic distribution, manufacturer performance, and policy-driven factors, the dashboard enables meaningful insights into the evolution of electric mobility in India. The project showcases strong capabilities in data storytelling, dashboard design, and analytical interpretation—making it a valuable addition to both academic and professional portfolios.
+This Tableau project provides a clear and comprehensive view of India’s growing EV market. By visualizing trends, geographic distribution, manufacturer performance, and policy-driven factors, the dashboard enables meaningful insights into the evolution of electric mobility in India. The project showcases strong capabilities in data storytelling, dashboard design, and analytical interpretation making it a valuable addition to both academic and professional portfolios.
