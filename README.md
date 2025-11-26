@@ -1,6 +1,6 @@
 # Tableau-Project
 
-# India EV Market Analysis Dashboard – Tableau Project
+# India EV Market Analysis Dashboard - Tableau Project
 
 ### **Comprehensive Visualization of India’s Electric Vehicle Ecosystem (2018–2024)**
 
@@ -45,22 +45,22 @@ The dataset used in this project is a **synthetic EV dataset created using Pytho
 
 ## **Dashboard Components**
 
-### ** Key Performance Indicators (KPIs)**
+### 1. Key Performance Indicators (KPIs)
 
 * Total EVs
 * Average Electric Range
 * Average MSRP
 * BEV vs PHEV share
 
-### ** EV Adoption Trend by Year**
+### 2. EV Adoption Trend by Year
 
 Line chart showing year-wise EV registrations from 2018–2024.
 
-### ** State-wise EV Distribution**
+### 3. State-wise EV Distribution
 
 Choropleth map of India showing EV concentration across states.
 
-### ** Top 5 Manufacturers**
+### 4. Top 5 Manufacturers
 
 Bar chart showing highest EV-producing companies in India:
 
@@ -70,11 +70,11 @@ Bar chart showing highest EV-producing companies in India:
 * Mahindra Electric
 * BYD
 
-### ** CAFV Eligibility Breakdown**
+### 5. CAFV Eligibility Breakdown
 
 Pie/Donut chart showing % of vehicles eligible for clean fuel incentives.
 
-### ** EVs by Model**
+### 6. EVs by Model
 
 Insight table showing top-performing EV models.
 
@@ -101,12 +101,11 @@ Insight table showing top-performing EV models.
 
 ---
 
-## **Skills Demonstrated**
 
-* Tableau visual analytics
-* Data cleaning & preparation
-* Dashboard design & storytelling
-* Geographic mapping
-* KPI creation & interpretation
-* Industry-level reporting
-* Python-based dataset generation
+Here is a clean, concise, and professional **brief conclusion** you can add at the end of your README:
+
+---
+
+## **Conclusion**
+
+This Tableau project provides a clear and comprehensive view of India’s growing EV market. By visualizing trends, geographic distribution, manufacturer performance, and policy-driven factors, the dashboard enables meaningful insights into the evolution of electric mobility in India. The project showcases strong capabilities in data storytelling, dashboard design, and analytical interpretation—making it a valuable addition to both academic and professional portfolios.
