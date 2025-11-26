@@ -104,4 +104,3 @@ Insight table showing top-performing EV models.
 ##  **Conclusion**
 
 This Tableau project provides a clear, data-driven view of India’s evolving Electric Vehicle (EV) landscape. By visualizing trends across model years, states, manufacturers, and policy eligibility, the dashboard transforms raw data into actionable insights. It highlights the rapid growth of EV adoption, regional market strengths, and the role of clean-fuel incentives in accelerating the transition toward sustainable mobility.
-Overall, this project demonstrates strong skills in data preparation, visual analytics, and dashboard storytelling, delivering meaningful insights for policymakers, manufacturers, investors, and analysts within the EV ecosystem.
